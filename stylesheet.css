@@ -1,0 +1,139 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Inter", sans-serif;
+    background-color: hsl(0, 0%, 8%);
+    min-height: 100vh;
+    position: relative;
+}
+.box{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: hsl(0, 0%, 12%);
+    width: 450px;
+    border-radius: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+.image{
+    width: 100px;
+    height: 100px;
+    overflow: hidden;
+    margin-left: 36.5%;
+    margin-top: 40px;
+    margin-bottom: 25px;
+}
+.image img{
+    width:100%;
+    height: 100%;
+    border-radius: 50%;
+}
+.Profile_description{
+    text-align: center;
+    color:  hsl(0, 0%, 100%);
+    font-size: 13px;
+    font-weight: 100;
+}
+.Profile_description h2{
+    color:  hsl(75, 94%, 57%);
+    font-size: 15px;
+    margin-top: 10px;
+}
+.text{
+    color:  hsl(0, 0%, 100%);
+    margin-top: 35px;
+    margin-bottom: 20px;
+    font-weight: 200;
+    text-align: center;
+}
+.BT1{
+    height: 45px;
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 10px;
+    text-align: center;
+    vertical-align: middle;
+    line-height:45px; 
+    color: hsl(0, 0%, 100%);
+    font-weight: 600;
+    transition: 0.8s;
+    cursor: pointer;
+    margin-bottom: 15px;
+}
+.BT1:hover{
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 12%);
+}
+.BT2{
+    height: 45px;
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 10px;
+    text-align: center;
+    vertical-align: middle;
+    line-height:45px; 
+    color: hsl(0, 0%, 100%);
+    font-weight: 600;
+    transition: 0.8s;
+    cursor: pointer;
+    margin-bottom: 15px;
+}
+.BT2:hover{
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 12%);
+}
+.BT3{
+    height: 45px;
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 10px;
+    text-align: center;
+    vertical-align: middle;
+    line-height:45px; 
+    color: hsl(0, 0%, 100%);
+    font-weight: 600;
+    transition: 0.8s;
+    cursor: pointer;
+    margin-bottom: 15px;
+}
+.BT3:hover{
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 12%);
+}
+.BT4{
+    height: 45px;
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 10px;
+    text-align: center;
+    vertical-align: middle;
+    line-height:45px; 
+    color: hsl(0, 0%, 100%);
+    font-weight: 600;
+    transition: 0.8s;
+    cursor: pointer;
+    margin-bottom: 15px;
+}
+.BT4:hover{
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 12%);
+}
+.BT5{
+    height: 45px;
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 10px;
+    text-align: center;
+    vertical-align: middle;
+    line-height:45px; 
+    color: hsl(0, 0%, 100%);
+    font-weight: 600;
+    transition: 0.8s;
+    cursor: pointer;
+}
+.BT5:hover{
+    background-color: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 12%);
+}
