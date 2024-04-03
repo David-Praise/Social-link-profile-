@@ -37,6 +37,7 @@ I learnt the concept of accessibility and was able to apply it in my website for
     <div role="contentinfo">This is the footer</div>
   </body>
 ```
+Apperantly those defined sections are very important and are said to make the web page more readable. 
 
 ### Continued development
 I intend on immproving on making my web pages more accessible for people with sight disability in more ways than just implemeting sections, In addition much like last time i intend on improving my research skills in order to make much more responsive and dynamic web pages.
