@@ -17,8 +17,8 @@
 A single page social link profile that creates profiles for developers
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/social-link-profile-qAK5XhGccG)
+- Live Site URL: (https://david-praise.github.io/Social-link-profile-/)
 
 ## My process
 I started with the basics and laid everything down using html markup and used CSS to design what you see before you, I decided to use this font which i really liked here is the link to it (https://fonts.google.com/specimen/Inter)
@@ -43,6 +43,5 @@ Apperantly those defined sections are very important and are said to make the we
 I intend on immproving on making my web pages more accessible for people with sight disability in more ways than just implemeting sections, In addition much like last time i intend on improving my research skills in order to make much more responsive and dynamic web pages.
 ## Author
 
-- Website - [David Praise](https://www.your-site.com)
-- Frontend Mentor - [David Prasie](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [David prasie123](https://www.twitter.com/yourusername)
+- Frontend Mentor - (https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ/hub?share=true)
+- Twitter -(https://twitter.com/Davidprais203)
